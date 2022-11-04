@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/blog-react-learning/static/css/main.68c83d28.css",
+    "main.js": "/blog-react-learning/static/js/main.623306ab.js",
+    "index.html": "/blog-react-learning/index.html",
+    "static/media/Menu.svg": "/blog-react-learning/static/media/Menu.19fb64e1e61acba7091499ecd478a55f.svg",
+    "main.68c83d28.css.map": "/blog-react-learning/static/css/main.68c83d28.css.map",
+    "main.623306ab.js.map": "/blog-react-learning/static/js/main.623306ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c83d28.css",
+    "static/js/main.623306ab.js"
+  ]
+}
